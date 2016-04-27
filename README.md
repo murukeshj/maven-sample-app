@@ -1,6 +1,7 @@
 # Maven sample app
 
 ## Installation
+## changed for jenkins build test
 
 - Install Java
 - Install Maven
