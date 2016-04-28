@@ -1,7 +1,7 @@
 # Maven sample app
 
 ## Installation
-## changed for jenkins build test
+## changed for jenkins build test 
 
 - Install Java
 - Install Maven
@@ -11,3 +11,4 @@
 - Run APP: `$ mvn tomcat:run`
   
 
+# change for testing
